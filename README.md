@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 # MY TOP FAVORITE MOVIES/SERIES
-# H2 Horror/Action
+# Horror/Action
 
 1. Resident Evil Franchise
 2. Purge
